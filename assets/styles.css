@@ -522,6 +522,7 @@ li > a > img:hover {
 
   .see_more {
     border-bottom: 0;
+    padding: 0 20px 0 20px;
   }
 
   .small_text {
@@ -569,10 +570,12 @@ li > a > img:hover {
 
   .btn {
     text-align: center;
+    padding-bottom: 60px;
   }
 
   footer {
     height: 5vh;
+    position: relative;
   }
 
   .copyright {
