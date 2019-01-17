@@ -69,7 +69,8 @@ ul {
 
 .hero > * {
   position: absolute;
-  color: rgba(255, 255, 255, 0.25)
+  /* Not using this line, no noticable change  */
+  /* color: rgba(255, 255, 255, 0.25) */
 }
 
 .title {
@@ -92,7 +93,7 @@ ul {
 }
 
 .contact {
-  display: inline-block;
+  /* display: inline-block; */
   right: 12vw;
   top: 6.5vh;
   border: 2px solid #fff;
@@ -519,6 +520,10 @@ li > a > img:hover {
     grid-column-start: 1;
   }
 
+  .see_more {
+    border-bottom: 0;
+  }
+
   .small_text {
     padding-bottom: 40px;
   }
@@ -576,7 +581,6 @@ li > a > img:hover {
 
   .social-icons {
     top: 4vh;
-
   }
 
 }
