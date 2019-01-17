@@ -540,6 +540,7 @@ li > a > img:hover {
 
   .new-project {
     height: 27vh;
+    padding-bottom: 60px;
   }
 
   .center {
@@ -570,7 +571,6 @@ li > a > img:hover {
 
   .btn {
     text-align: center;
-    padding-bottom: 60px;
   }
 
   footer {
