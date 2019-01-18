@@ -539,8 +539,8 @@ li > a > img:hover {
   }
 
   .new-project {
-    height: 27vh;
-    padding-bottom: 60px;
+    height: 25vh;
+    /* padding-bottom: 60px; */
   }
 
   .center {
