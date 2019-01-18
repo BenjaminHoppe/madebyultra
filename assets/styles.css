@@ -540,7 +540,7 @@ li > a > img:hover {
 
   .new-project {
     height: 25vh;
-    /* padding-bottom: 60px; */
+    padding-bottom: 40px;
   }
 
   .center {
