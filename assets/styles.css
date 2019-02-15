@@ -287,8 +287,6 @@ ul {
   transition: opacity 0.3s;
 }
 
-
-
 .clients {
   margin: 0 auto;
   padding-top: 50px;
@@ -425,7 +423,6 @@ li > a > img:hover {
   .hero {
     width: 100vw;
     height: 52.5vh;
-
   }
 
   .title {
@@ -437,7 +434,6 @@ li > a > img:hover {
     font-size: 0.7em;
     padding: 7px 12px;
     right: 7vw;
-
   }
 
   .info {
@@ -522,7 +518,7 @@ li > a > img:hover {
 
   .see_more {
     border-bottom: 0;
-      margin: 50px 20px 100px;
+    margin: 50px 20px 100px;
   }
 
   .small_text {
@@ -585,5 +581,4 @@ li > a > img:hover {
   .social-icons {
     top: 4vh;
   }
-
 }
