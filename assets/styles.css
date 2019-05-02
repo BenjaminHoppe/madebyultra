@@ -170,7 +170,6 @@ ul {
   padding-bottom: 30px;
 }
 
-
 .strategy {
   grid-column-start: 1;
   margin: 0 auto;
@@ -184,7 +183,6 @@ ul {
 .technology {
   grid-column-start: 3;
   margin: 0 auto;
-
 }
 .contact-us {
   color: #000;
@@ -229,7 +227,6 @@ ul {
   padding-top: 30px;
   font-weight: 400;
 }
-
 
 .cases {
   margin-top: 50px;
